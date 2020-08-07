@@ -7,7 +7,7 @@
 <a href="https://github.com/gdguesser?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
 
-My name is Gabriel Guesser from Brazil (🇧🇷). I'm a developer, tech enthusiast, backend developer.  
+My name is Gabriel Guesser from Brazil (🇧🇷). I'm a developer, tech enthusiast. 
 
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gdguesser&show_icons=true&theme=merko)
