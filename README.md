@@ -7,8 +7,3 @@
 
 
 My name is Gabriel Guesser from Brazil (🇧🇷). I'm a developer, tech enthusiast. 
-
-
-![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gdguesser&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdguesser&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
