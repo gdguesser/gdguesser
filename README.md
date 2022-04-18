@@ -4,6 +4,7 @@
 
 <p align='center'>
   A backend developer from Joinville, Brazil.
+  Currently living in Porto, Portugal.
 </p>
 
 <p align='center'>
